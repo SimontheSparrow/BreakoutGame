@@ -1,0 +1,10 @@
+C:\Users\48574\source\repos\Breakout game in winforms\Breakout game in winforms\bin\Debug\Breakout game in winforms.exe.config
+C:\Users\48574\source\repos\Breakout game in winforms\Breakout game in winforms\bin\Debug\Breakout game in winforms.exe
+C:\Users\48574\source\repos\Breakout game in winforms\Breakout game in winforms\bin\Debug\Breakout game in winforms.pdb
+C:\Users\48574\source\repos\Breakout game in winforms\Breakout game in winforms\obj\Debug\Breakout_game_in_winforms.Form1.resources
+C:\Users\48574\source\repos\Breakout game in winforms\Breakout game in winforms\obj\Debug\Breakout_game_in_winforms.Properties.Resources.resources
+C:\Users\48574\source\repos\Breakout game in winforms\Breakout game in winforms\obj\Debug\Breakout game in winforms.csproj.GenerateResource.cache
+C:\Users\48574\source\repos\Breakout game in winforms\Breakout game in winforms\obj\Debug\Breakout game in winforms.csproj.CoreCompileInputs.cache
+C:\Users\48574\source\repos\Breakout game in winforms\Breakout game in winforms\obj\Debug\Breakout game in winforms.exe
+C:\Users\48574\source\repos\Breakout game in winforms\Breakout game in winforms\obj\Debug\Breakout game in winforms.pdb
+C:\Users\48574\source\repos\Breakout game in winforms\Breakout game in winforms\obj\Debug\Breakout game in winforms.csproj.AssemblyReference.cache
